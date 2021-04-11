@@ -13,3 +13,9 @@ This has preprocessing of data for modeling and models
 This has to be read along with Notebook 2 
 (There is a mark down cell triggering when to read Notebook 3)
 This notebook contains methods used for Oversampling and Downsampling
+
+Report Folder contains final report and presentation
+
+Created_Data - Data cleaned, filtered, grouped to be used for models and analysis.
+
+Original Data available on Kaggle  - https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv
