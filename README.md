@@ -19,3 +19,5 @@ Report Folder contains final report and presentation
 Created_Data - Data cleaned, filtered, grouped to be used for models and analysis.
 
 Original Data available on Kaggle  - https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies.csv
+
+Linkedin - https://www.linkedin.com/in/halakdesai
